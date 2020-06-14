@@ -7,3 +7,7 @@ Anita Platzi tiene 41 años y nació en Internet
 Al equipo también se ha integrado Victor 
 
 Mañana nos enfocaremos en su vida laboral
+
+El di de hoy estamos haciendo las pruebas de como se hace un merge
+y tambien un pull request porque tu sabes que no es igual verlo que hacerlo
+entonces buscando una mejor experiencia y entendimiento del cuerso pues es lo que hago 
