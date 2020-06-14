@@ -12,4 +12,8 @@ Mañana nos enfocaremos en su vida laboral
 
 El di de hoy estamos haciendo las pruebas de como se hace un merge
 y tambien un pull request porque tu sabes que no es igual verlo que hacerlo
-entonces buscando una mejor experiencia y entendimiento del cuerso pues es lo que hago 
+entonces buscando una mejor experiencia y entendimiento del cuerso pues es lo que hago
+
+ya estoy agregando algo en minusculas
+
+QUERI AGREGAR OTRO FINAL EN MAYUSCULAS PORQUE ANDO COMPROBANDO QUE TAN BIEN SALE HACER ESTO  
